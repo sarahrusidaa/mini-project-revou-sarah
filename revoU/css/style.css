@@ -22,11 +22,10 @@ header {
   cursor: pointer;
   display: inline-block;
   list-style: none;
-  background-color: transparent yellow;
-  transition-property: all;
 }
 
 nav.item:hover {
+  background: rgb(116, 134, 139);
   margin-top: -3px;
   position: absolute;
   width: 100%;
